@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c5eaa383_002D8e9a_002D4e95_002D8207_002Dc22c9070b5e5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="WhenValidInputsAreGiven_Genre_ShouldBeReturn" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::AF3A07D4-BFD9-43F7-AD2C-AD8128848639::net7.0::WebApi.UnitTests.Application.BookOperations.Queries.GetAuthorDetail.GetGenreDetailQueryTest.WhenValidInputsAreGiven_Genre_ShouldBeReturn&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=db65fde6_002De4ba_002D4122_002Dbcca_002Dffc7ac477272/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenValidInputsAreGiven_Genre_ShouldBeReturn #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFolder&gt;AF3A07D4-BFD9-43F7-AD2C-AD8128848639/d:Application/d:GenreOperations&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;AF3A07D4-BFD9-43F7-AD2C-AD8128848639/d:Application/d:BookOperations&lt;/ProjectFolder&gt;
+    &lt;ProjectFolder&gt;AF3A07D4-BFD9-43F7-AD2C-AD8128848639/d:Application/d:AuthorOperations&lt;/ProjectFolder&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
